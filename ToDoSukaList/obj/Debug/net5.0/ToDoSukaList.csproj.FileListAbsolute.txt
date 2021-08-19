@@ -1,0 +1,16 @@
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.exe
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.deps.json
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.runtimeconfig.json
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.runtimeconfig.dev.json
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.dll
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ref\ToDoSukaList.dll
+C:\#pro\ToDoSukaList\bin\Debug\net5.0\ToDoSukaList.pdb
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.csprojAssemblyReference.cache
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.GeneratedMSBuildEditorConfig.editorconfig
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.AssemblyInfoInputs.cache
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.AssemblyInfo.cs
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.csproj.CoreCompileInputs.cache
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.dll
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ref\ToDoSukaList.dll
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.pdb
+C:\#pro\ToDoSukaList\obj\Debug\net5.0\ToDoSukaList.genruntimeconfig.cache
